@@ -2,17 +2,18 @@
 Smart toilet and bathroom system that uses biometrics to give nutritional guidance based on user health goals.
 And here's a compelling description of the project written by chat GPT after several hours of breath taking conversation.
 
-Welcome to our smart toilet project! Our goal is to revolutionize the way we think about nutrition and health by delivering precision nutrition information using body metrics and other lifestyle factors.
-
-The project aims to build a smart toilet that can analyze various body fluids and tissues using advanced diagnostic technologies such as HPLC, gas chromatography, and fluorescence spectroscopy. The data collected will be used to make personalized dietary recommendations, including the ability to produce a meal replacement shake that can balance any deficiencies on demand.
-
-We will be using Openchrom for testing and a bridge program that will take the input from Openchrom and from a Fitbit/smart watch type device to make the dietary suggestions. The project will be non-profit, open-source, and with a scaling plan from 1 million users to 1 billion users per day.
-
-We are currently in the early stages of development and are looking for collaborators to help with programming, design, and testing. If you're interested in getting involved, please reach out to us and let us know how you can help.
-
-With your help, we believe that we can create a system that will help improve the intelligence and quality of life of the human population, and eventually our animal friends as well.
-
-The future belongs to all of us. ✊
 
 [MinMax Smart Toilet]
 (https://flic.kr/p/2oceXtp)
+
+Our Smart Toilet project aims to revolutionize precision nutrition by delivering personalized dietary recommendations to users. By utilizing state-of-the-art analytical equipment, such as HPLC, GC, FTIR and others, as well as data from lifestyle tracking devices (smartwatch Fitbit etc), our data integration software will be able to analyze body tissue and fluids to determine nutritional deficiencies and make recommendations for improvement.
+
+With user privacy being our number one priority, we guarantee that no personal user data will be collected or stored at any point in our process. Our software will be designed to strictly adhere to data privacy regulations, ensuring that all user data is protected and secure.
+
+As a non-profit and open-source initiative, our goal is to improve the average intelligence and quality of life for the human population, and eventually, our animal friends as well. We are currently in the prototype phase and are actively seeking collaboration from experts in programming, medical science, mechanical engineering, business development, and internet security to bring this project to fruition.
+
+Join us on our journey to improve health and well-being for all, and make a positive impact on the world."
+--End Chatgpt3.5 monologue 😉👍
+
+
+The future belongs to all of us. ✊
