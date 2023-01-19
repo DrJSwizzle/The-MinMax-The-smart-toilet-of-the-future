@@ -13,3 +13,6 @@ We are currently in the early stages of development and are looking for collabor
 With your help, we believe that we can create a system that will help improve the intelligence and quality of life of the human population, and eventually our animal friends as well.
 
 The future belongs to all of us. ✊
+
+[MinMax Smart Toilet]
+(https://flic.kr/ps/41tPAP)
