@@ -15,4 +15,4 @@ With your help, we believe that we can create a system that will help improve th
 The future belongs to all of us. ✊
 
 [MinMax Smart Toilet]
-(https://flic.kr/ps/41tPAP)
+(https://flic.kr/p/2oceXtp)
